@@ -1,0 +1,6 @@
+path: C:\Users\nured\Downloads\archive (7)\data\yolo_work\yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: object
+nc: 1
