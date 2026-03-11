@@ -32,7 +32,7 @@ Includes dataset preprocessing, training, evaluation, and inference pipeline.
 
 ---
 
-## 🎯 Features
+## 🎯 Features-1
 
 - CSV → YOLO annotation conversion  
 - Train / Validation split  
